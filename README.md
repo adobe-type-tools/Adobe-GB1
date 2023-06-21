@@ -43,6 +43,7 @@ The Adobe-GB1-6 character collection enumerates 30,572 glyphs, specifically CIDs
 4 | 6,711 | 22353–29063 | 29,064 | 2000-11-20 | 45–59
 5 | 1,220 | 29064–30283 | 30,284 | 2005-12-04 | 59–61
 6 | 288 | 30284-30571 | 30,572 | 2023-04-21 | 61-62
+
 Each CID (*Character ID*) in a character collection is associated with a class of character shapes or glyphs. The specific shape of a glyph from a given glyph class is dependent on the typeface style and possibly other factors. Glyphs for all CIDs are illustrated in this document, providing a specific example or instance of the correspondence between a CID and its glyph shape class. Font developers should design glyphs for each CID of the character collection, and may use this document as a reference when proofing or otherwise validating CIDFont resources.
 
 The following sections detail the history and contents of each of the seven Supplements of the Adobe-GB1-6 character collection.
